@@ -1,7 +1,7 @@
 # Project Title: simonalvas.com
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSimonAlvas%2Fportfolio&countColor=%23263759&labelStyle=lower)
-![cover](https://github.com/SimonAlvas/portfolio/assets/74599637/46a5124d-6128-437b-86da-da6b3c6f5162)
+![cover](https://github.com/SimonAlvas/portfolio/public/Simon.jpg)
 
 ## Description
 This is my portfolio website, built from scratch using modern web technologies. After having a previous version built with Astro, I decided to create a new and improved version that focuses on aesthetics and user experience.
@@ -30,7 +30,7 @@ code .
 ```
 
 ## Credits
-I took inspiration from how clean [Ray's](https://github.com/SimonAlvas) portfolio site is. Pardon the similarities, and don't attack me, please! Special thanks to [Wanjo](https://github.com/Jovanni) for his guidance and support throughout the development process.
+I took inspiration from how clean [Simon's](https://github.com/simon7426) portfolio site is. Pardon the similarities, and don't attack me, please! Special thanks to [Jovanni](https://github.com/Jovanni) for his guidance and support throughout the development process.
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
