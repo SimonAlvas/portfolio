@@ -1,7 +1,6 @@
 # Project Title: simonalvas.com
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSimonAlvas%2Fportfolio&countColor=%23263759&labelStyle=lower)
-![cover](https://github.com/SimonAlvas/portfolio/public/Simon.jpg)
 
 ## Description
 This is my portfolio website, built from scratch using modern web technologies. After having a previous version built with Astro, I decided to create a new and improved version that focuses on aesthetics and user experience.
