@@ -58,7 +58,7 @@ const links = [
   {
     label: "Resume",
     href: {
-      pathname: "/syaamil-resume.pdf",
+      pathname: "/SimonAlvas_resume(1).pdf",
       id: "#",
     },
   },
