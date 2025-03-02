@@ -22,11 +22,11 @@ interface Experience {
 
 const experiences: Experience[] = [
   {
-    title: "Intern",
-    company: "Dell Technologies",
-    period: "Aug 2022 - Jan 2023",
+    title: "First experience",
+    company: "GREE company",
+    period: "Aug 2018 - Nov 2019",
     description:
-      "In my role, I spearheaded the update and development of an internal portal utilized by 133,000 Dell employees globally. This involved a comprehensive redesign to align with the latest design standards, significantly enhancing user experience. Recognizing the need for scalability, I devised a strategic plan to accommodate the expanding product catalog, culminating in the creation and implementation of a robust content management system (CMS) for the portal. This initiative streamlined content maintenance processes for product managers, resulting in a remarkable 70% increase in efficiency.",
+      "In my role, I spearheaded the update and development of an internal portal utilized by 90,000 GREE employees globally. This involved a comprehensive redesign to align with the latest design standards, significantly enhancing user experience. Recognizing the need for scalability, I devised a strategic plan to accommodate the expanding product catalog, culminating in the creation and implementation of a robust content management system (CMS) for the portal. This initiative streamlined content maintenance processes for product managers, resulting in a remarkable 70% increase in efficiency.",
     skills: [
       "Next.js",
       "AJAX",
@@ -47,11 +47,11 @@ const experiences: Experience[] = [
     ],
   },
   {
-    title: "Frontend Developer",
-    company: "Revo Global",
-    period: "Feb 2023 - Mar 2024",
+    title: "Software & Frontend Developer",
+    company: "Microsoft",
+    period: "Nov 2019 - Dec 2022",
     description:
-      "I directed a dynamic team of 3, crafting captivating web and mobile apps along with a compelling landing site, all with a focus on user engagement. Spearheading frontend development, I upheld industry best practices to ensure stellar user experience and performance. Leveraging a no-code solution, we swiftly deployed the company's landing site, maintaining a competitive edge in the industry. I facilitated communication with upper management, securing operational expenditures to boost team productivity. Thorough code reviews were conducted to uphold top-tier code quality and prevent tech debt.",
+      "I directed a dynamic team of 10, crafting captivating web and mobile apps along with a compelling landing site, all with a focus on user engagement. Spearheading frontend development, I upheld industry best practices to ensure stellar user experience and performance. Leveraging a no-code solution, we swiftly deployed the company's landing site, maintaining a competitive edge in the industry. I facilitated communication with upper management, securing operational expenditures to boost team productivity. Thorough code reviews were conducted to uphold top-tier code quality and prevent tech debt.",
     skills: [
       "Web Design",
       "Agile Methodologies",
@@ -71,9 +71,9 @@ const experiences: Experience[] = [
   {
     title: "Full Stack - FrontEnd & BackEnd Developer",
     company: "Dell Technologies",
-    period: "Mar 2024 - present",
+    period: "Jan 2023 - present",
     description:
-      "Since I got a job at Hoesang, I have been training both frontend and backend technologies, and I am currently maintaining the server that is under heavy load by many users to ensure that it operates normally, and I am also in charge of carrying out large and small projects that are proposed. I have developed 70% of the server, and I am currently in charge of and responsible for the periodic updates of the frontend.",
+      "Since I worked at Hoesang, I have been training both frontend and backend technologies, and I am currently maintaining the server that is under heavy load by many users to ensure that it operates normally, and I am also in charge of carrying out large and small projects that are proposed. I have developed 70% of the server, and I am currently in charge of and responsible for the periodic updates of the frontend.",
     skills: [
       "Next.js",
       "ASP.NET",

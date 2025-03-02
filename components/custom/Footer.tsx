@@ -11,14 +11,14 @@ const socials = [
     icon: <GitHubLogoIcon className="w-5 h-5" />,
     href: "https://www.github.com/SimonAlvas",
   },
-  {
-    icon: <LinkedInLogoIcon className="w-5 h-5" />,
-    href: "https://www.linkedin.com",
-  },
-  {
-    icon: <TwitterLogoIcon className="w-5 h-5" />,
-    href: "https://www.x.com/",
-  },
+  // {
+  //   icon: <LinkedInLogoIcon className="w-5 h-5" />,
+  //   href: "https://www.linkedin.com",
+  // },
+  // {
+  //   icon: <TwitterLogoIcon className="w-5 h-5" />,
+  //   href: "https://www.x.com/",
+  // },
   {
     icon: <EnvelopeClosedIcon className="w-5 h-5" />,
     href: "mailto:simonalvas2@gmail.com",
@@ -29,7 +29,7 @@ export default function Footer() {
   return (
     <div className="container mx-auto flex flex-col justify-center items-center gap-4 py-6">
       <span className="text-sm">
-        &copy;&nbsp;&nbsp;Simon Alvas &#x2022; 2024
+        &copy;&nbsp;&nbsp;Simon Alvas &#x2022; 2025
       </span>
       <SocialLinks />
     </div>
